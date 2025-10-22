@@ -29,8 +29,8 @@ I am an early-career researcher with a deep commitment to the mathematical found
 - Markovian Semigroups and Functional Analysis.
 
 # News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *22nd October 2025*: &nbsp; - The CSIR UGC NET December 2025 exam, conducted by the National Testing Agency (NTA), is scheduled for December 18, 2025, with applications open from September 25 to October 24. This computer-based test determines eligibility for Junior Research Fellowship (JRF) and Assistant Professor roles in science disciplines including Life, Physical, Chemical, Mathematical, and Earth Sciences. Candidates must hold a relevant master’s degree with at least 55% marks (50% for reserved categories), and can apply via [csirnet.nta.nic.in](https://csirnet.nta.nic.in).
+
 
 # Publications 
 
