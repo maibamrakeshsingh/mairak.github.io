@@ -17,11 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an early-career researcher with a deep commitment to the mathematical foundations of stochastic systems and random processes. My academic interests lie at the intersection of probability, geometry, and complex dynamics, where I explore how local interactions give rise to emergent global behavior in probabilistic models.
-
-My research bridges discrete and continuous frameworks, with applications spanning statistical mechanics, random geometry, and interacting particle systems. I am particularly drawn to the study of phase transitions, spatial randomness, and dynamical evolution in complex systems, seeking to uncover the universal principles that govern these phenomena.
-
-My long-term goal is to contribute to the theoretical underpinnings of stochastic modeling, while developing mathematical tools that illuminate real-world complexity, from material science and biological systems to network dynamics and quantum fields.
+# Maibiya R. KhumanCha
+I am an early-career researcher with a deep commitment to the mathematical foundations of stochastic systems and random processes. My academic interests lie at the intersection of probability, geometry, and complex dynamics, where I explore how local interactions give rise to emergent global behavior in probabilistic models. My research bridges discrete and continuous frameworks, with applications spanning statistical mechanics, random geometry, and interacting particle systems. I am particularly drawn to the study of phase transitions, spatial randomness, and dynamical evolution in complex systems, seeking to uncover the universal principles that govern these phenomena. My long-term goal is to contribute to the theoretical underpinnings of stochastic modeling, while developing mathematical tools that illuminate real-world complexity, from material science and biological systems to network dynamics and quantum fields.
 
 # Core Research Themes
 - Stochastic Processes and Probability Theory.
