@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Maibam Rakesh Singh"
-description              : "Early Career Researcher, Institutes of Chemical Technology, Mumbai, Bharathidasan University,Tiruchirappalli"
+description              : "Early Career Researcher, Institutes of Chemical Technology,Mumbai, Bharathidasan University,Tiruchirappalli"
 repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -24,7 +24,7 @@ author:
   name             : "Maibam Rakesh Singh"
   avatar           : "images/maibam_photo.png"
   bio              : "Realm of Maibiya R. KhumanCha"
-  location         : "Trichy, Imphal, India"
+  location         : "Tiruchirappalli, Imphal, India"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
