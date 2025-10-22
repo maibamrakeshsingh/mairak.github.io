@@ -58,5 +58,5 @@ I am an early-career researcher with a deep commitment to the mathematical found
 - *Bachelor of Science in Physics (Honours)*, Manipur University, Canchipur, Manipur, India.
 
 # Projects and Internships
-- *Data Science Internship*, Machine Learning for Diabetes Detection and Glucose Prediction and Patient-Centric Management, supervised by Machine Learning/Artificial intelligence Team (Skillfied Mantor), Powered by Bharathidasan University, Tiruchirappalli.
+- *Data Science Internship*, Machine Learning for Diabetes Detection and Glucose Prediction and Patient-Centric Management, supervised by Machine Learning and Artificial intelligence Team (Skillfied Mantor), Powered by Bharathidasan University, Tiruchirappalli.
 - *Artificial Intelligence Internship*, Building A Compact Conversational Tool With Natural Language Processing And Machine Learning Techniques, supervised by Tharwinvikram Nadar and Vinit Chavan (Data Analyst), Institute of Chemical Technology, Mumbai.
