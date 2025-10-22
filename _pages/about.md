@@ -53,8 +53,10 @@ I am an early-career researcher with a deep commitment to the mathematical found
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # Educations
-- *July 2024 - May 2026*, Bharathidasan University, Tiruchirappalli, Tamil Nadu, - Master of Science in Statistics.
-- *June 2017 - December 2019*, Hemvati Nandan Bahuguna Garhwal University, Srinagar, Uttarakhand, - Bachelor of Science in Statistical Mathematics. 
+- *July 2024 - May 2026*, Bharathidasan University, Tiruchirappalli, Tamil Nadu - Master of Science in Statistics.
+- *June 2017 - December 2019*, Hemvati Nandan Bahuguna Garhwal University, Srinagar, Uttarakhand - Bachelor of Science in Statistical Mathematics.
+- *June 2011 - July 2014*, Manipur University, Canchipur, Manipur - Bachelor of Science in Physics (Honours).
 
 # Projects and Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *June 2025*, Machine Learning for Diabetes Detection and Glucose Prediction and Patient-Centric Management, supervised by Machine Learning/Artificial intelligence Team (Skillfied Mantor), Powered by Bharathidasan University, Tiruchirappalli.
+- *May 2024*, Building A Compact Conversational Tool With Natural Language Processing And Machine Learning Techniques, supervised by Tharwinvikram Nadar and Vinit Chavan (Data Analyst), Institute of Chemical Technology, Mumbai.
