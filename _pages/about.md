@@ -22,12 +22,12 @@ My research bridges discrete and continuous frameworks, with applications spanni
 My long-term goal is to contribute to the theoretical underpinnings of stochastic modeling, while developing mathematical tools that illuminate real-world complexity, from material science and biological systems to network dynamics and quantum fields.
 
 # Core Research Themes
-- Stochastic processes and probability theory
-- Percolation theory and critical phenomena
-- Interacting particle systems and emergent behavior
-- Stochastic partial differential equations (SPDEs)
-- Random geometry and spatial statistics
-- Markovian semigroups and functional analysis.
+- Stochastic Processes and Probability Theory
+- Percolation Theory and Critical Phenomena
+- Interacting Particle Systems and Emergent Behavior
+- Stochastic Partial Differential Equations (SPDEs)
+- Random Geometry and Spatial Statistics
+- Markovian Semigroups and Functional Analysis.
 
 # News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
