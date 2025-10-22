@@ -53,8 +53,8 @@ I am an early-career researcher with a deep commitment to the mathematical found
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # Educations
-- *July 2024 - May 2026*, Bharathidasan University, Tiruchirappalli, Tamil Nadu, Master of Science in Statistics.
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *July 2024 - May 2026*, Bharathidasan University, Tiruchirappalli, Tamil Nadu, - Master of Science in Statistics.
+- *June 2017 - December 2019*, Hemvati Nandan Bahuguna Garhwal University, Srinagar, Uttarakhand, - Bachelor of Science in Statistical Mathematics. 
 
 # Projects and Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
