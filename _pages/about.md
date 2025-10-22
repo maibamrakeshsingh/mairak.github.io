@@ -49,8 +49,8 @@ I am an early-career researcher with a deep commitment to the mathematical found
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # Honors and Awards
-- *10th July 2025* CSIR-UGC NET (National Eligibility Test) for Junior Research Fellowship (JRF) and Lectureship (LS) in Mathematical Sciences. 
-- 14th April 2026* National Board for Higher Mathematics (NBHM), Department of Atomic Energy (DAE),Doctoral Scholarship in Mathematical Sciences. 
+- *10th July 2025* --  CSIR-UGC NET (National Eligibility Test) for Junior Research Fellowship (JRF) and Lectureship (LS) in Mathematical Sciences. 
+- *14th April 2026* -- National Board for Higher Mathematics (NBHM), Department of Atomic Energy (DAE),Doctoral Scholarship in Mathematical Sciences. 
 
 # Educations
 - *Master of Science in Statistics*, Bharathidasan University, Tiruchirappalli, Tamil Nadu, India.
